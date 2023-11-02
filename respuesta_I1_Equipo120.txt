@@ -15,3 +15,5 @@ b - Si ALFA agrega un archivo los demás integrantes lo pueden ver sin inconveni
 
 c - Si BETA agrega un archivo los demás integrantes lo pueden ver sin inconvenientes.
 d - Nos comunicamos entre nosotros por medio de WhatsApp, creamos un grupo.
+
+e - Dentro de GitHub la mejor forma de comunicarnos entre nosotros es por medio de los proyectos, allí fuimos escribiendo las tareas a completar, el estado de la tarea y quien debía realizarla.
