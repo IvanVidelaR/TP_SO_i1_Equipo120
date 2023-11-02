@@ -1,0 +1,14 @@
+Apellido y nombre de los integrantes que participaron de la interacción: 
+ALFA: Videla Ribodino Iván Agustín.
+BETA: Gonzalez Ricardo.
+GAMMA: Ibañez Tejero Ezequiel.
+
+Respuestas:
+a - ¿ALFA ve los datos que cargaron los demás en su repositorio?
+b - ¿Si ALFA agrega un archivo los demás integrantes lo ven?
+c - ¿Si BETA agrega un archivo los demás integrantes lo ven?
+d - ¿De qué forma se comunicaron ustedes?
+e - ¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+
+a - Si, ALFA puede ver los datos que cargaron los demás en su repositorio.
+b - Si ALFA agrega un archivo los demás integrantes lo pueden ver sin inconvenientes.
